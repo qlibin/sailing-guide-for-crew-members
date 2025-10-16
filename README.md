@@ -247,46 +247,37 @@ You don't need sailing experience to be excellent crew – just the right attitu
 ### Excellent YouTube Videos for Beginners
 
 **Complete Beginner Guides:**
-- **"How to Sail (for beginners)"** by Sam Holmes Sailing  
-  https://www.youtube.com/watch?v=_tgzDsg9C_Q  
+- [**"How to Sail (for beginners)"**](https://www.youtube.com/watch?v=_tgzDsg9C_Q) by Sam Holmes Sailing  
   Comprehensive introduction covering all basics
 
-- **"How to Sail - Beginners Course"** by Sailing Virgins  
-  https://www.youtube.com/watch?v=GjvNECA0Dqw  
+- [**"How to Sail - Beginners Course"**](https://www.youtube.com/watch?v=GjvNECA0Dqw) by Sailing Virgins  
   Well-structured course for absolute beginners
 
-- **"Learn How to Sail: A Step-by-Step Guide to SAILING"**  
-  https://www.youtube.com/watch?v=WjBYRUZbU4Y  
+- [**"Learn How to Sail: A Step-by-Step Guide to SAILING"**](https://www.youtube.com/watch?v=WjBYRUZbU4Y)  
   Detailed step-by-step sailing fundamentals
 
 **Crew-Specific Skills:**
-- **"Essential Crew Skills for Beginners | Sailing Madness Ep45"**  
-  https://www.youtube.com/watch?v=2B-uvclgzzs  
+- [**"Essential Crew Skills for Beginners | Sailing Madness Ep45"**](https://www.youtube.com/watch?v=2B-uvclgzzs)  
   Focused on what crew members need to know
 
-- **"How we Crew a sailing yacht!"** by Sail Hub  
-  https://www.youtube.com/watch?v=uYXk7ouYUcc  
+- [**"How we Crew a sailing yacht!"**](https://www.youtube.com/watch?v=uYXk7ouYUcc) by Sail Hub  
   Real-world crew duties and routines
 
-- **"Part 1 - Competent Crew Sailing Tuition"**  
-  https://www.youtube.com/watch?v=vioRcLhqn8A  
+- [**"Part 1 - Competent Crew Sailing Tuition"**](https://www.youtube.com/watch?v=vioRcLhqn8A)  
   Professional crew training video series
 
 **Parts of the Boat & Terminology:**
-- **"Learn to Sail: Part 1: Parts of the Boat and Sailing Basics"**  
-  https://www.youtube.com/watch?v=67e5N2BsQfE  
+- [**"Learn to Sail: Part 1: Parts of the Boat and Sailing Basics"**](https://www.youtube.com/watch?v=67e5N2BsQfE)  
   Essential terminology and boat anatomy
 
 **Watch Systems:**
-- **"Which is the best Watch System for your yacht, crew & voyage"**  
-  https://www.youtube.com/watch?v=sf6J3zRJsWg  
+- [**"Which is the best Watch System for your yacht, crew & voyage"**](https://www.youtube.com/watch?v=sf6J3zRJsWg)  
   Understanding crew rotation systems
 
 ### Top Sailing YouTube Channels to Follow
 
 - **Sailing La Vagabonde** – Real-world cruising and family sailing experiences
-- **Free Sailing Tutorials** – Detailed how-to videos on specific sailing topics  
-  https://www.youtube.com/channel/UCMplS4YNsPkdFLkEbXzEkKA/videos
+- [**Free Sailing Tutorials**](https://www.youtube.com/channel/UCMplS4YNsPkdFLkEbXzEkKA/videos) – Detailed how-to videos on specific sailing topics
 - **Carpe Diem Sailing** – "Learn to Sail" organized tutorial playlist
 - **NauticEd Sailing School** – Professional structured sailing education
 - **Sailing Virgins** – Task-specific tutorials (tacking, gybing, docking)
@@ -294,58 +285,44 @@ You don't need sailing experience to be excellent crew – just the right attitu
 
 ### Free Online Courses
 
-- **ASA "Your First Sail"** (30-45 minutes)  
-  https://americansailing.com/free-online-sailing-course/  
+- [**ASA "Your First Sail"**](https://americansailing.com/free-online-sailing-course/) (30-45 minutes)  
   Perfect introductory course covering sailing basics
 
-- **NauticEd Free Courses**  
-  https://sailing-blog.nauticed.org/  
+- [**NauticEd Free Courses**](https://sailing-blog.nauticed.org/)  
   Free sail theory and collision regulations courses
 
-- **Yapp Sailing Course**  
-  https://yapp.pro  
+- [**Yapp Sailing Course**](https://yapp.pro)  
   Free beginner-friendly course with one-minute lessons and interactive learning
 
 ### Essential Articles & Guides
 
 **Crew Roles & Responsibilities:**
-- **"Crew roles: Why Everyone on a Boat Needs a Job"** – Kavas Yachting  
-  https://www.kavas.com/sailors-guide/chapterb-before-departure/b6-crew-roles.html
+- [**"Crew roles: Why Everyone on a Boat Needs a Job"**](https://www.kavas.com/sailors-guide/chapterb-before-departure/b6-crew-roles.html) – Kavas Yachting
 
-- **"How to be a good skipper or crew member on a sailing vacation"** – NauticEd  
-  https://sailing-blog.nauticed.org/how-to-be-a-good-skipper-or-crew-member-on-a-sailing-vacation/
+- [**"How to be a good skipper or crew member on a sailing vacation"**](https://sailing-blog.nauticed.org/how-to-be-a-good-skipper-or-crew-member-on-a-sailing-vacation/) – NauticEd
 
 **Sailing with Children:**
-- **"Children on a Sailboat - Tips for Sailing With Kids"** – Sailing Europe  
-  https://www.sailingeurope.com/en/sailing-tips/sailing-faq/children-on-a-sail-boat
+- [**"Children on a Sailboat - Tips for Sailing With Kids"**](https://www.sailingeurope.com/en/sailing-tips/sailing-faq/children-on-a-sail-boat) – Sailing Europe
 
-- **"Sailing with children"** – Pitter Yachting  
-  https://www.pitter-yachting.com/en/sailing-with-kids/sailing-with-children
+- [**"Sailing with children"**](https://www.pitter-yachting.com/en/sailing-with-kids/sailing-with-children) – Pitter Yachting
 
-- **"Tips for Sailing with Kids Safely"** – Rent a Yacht Australia  
-  https://www.rentayacht.com.au/sailing-with-kids-safety/
+- [**"Tips for Sailing with Kids Safely"**](https://www.rentayacht.com.au/sailing-with-kids-safety/) – Rent a Yacht Australia
 
 **First Charter Experience:**
-- **"Tips For Your First Sailing Charter Vacation"** – American Sailing  
-  https://americansailing.com/articles/first-sailing-charter/
+- [**"Tips For Your First Sailing Charter Vacation"**](https://americansailing.com/articles/first-sailing-charter/) – American Sailing
 
-- **"Boat Etiquette 101: How to Be a Good Crew"** – Marina Life  
-  https://www.marinalife.com/articles/boat-etiquette-101-how-to-be-a-good-crew
+- [**"Boat Etiquette 101: How to Be a Good Crew"**](https://www.marinalife.com/articles/boat-etiquette-101-how-to-be-a-good-crew) – Marina Life
 
 **Croatia-Specific:**
-- **"Bareboat Sailing Guide Croatia"** – Sailing Holidays Croatia  
-  https://www.sailing-holidays-in-croatia.com/about/blog/sailing-in-croatia
+- [**"Bareboat Sailing Guide Croatia"**](https://www.sailing-holidays-in-croatia.com/about/blog/sailing-in-croatia) – Sailing Holidays Croatia
 
-- **"Guide for bare boat charter in Croatia"** – Nava Boats  
-  https://navaboats.com/blog/boating-tips/guide-for-bare-boat-charter-in-croatia-3281
+- [**"Guide for bare boat charter in Croatia"**](https://navaboats.com/blog/boating-tips/guide-for-bare-boat-charter-in-croatia-3281) – Nava Boats
 
 ### Watch Systems & Crew Management
 
-- **"Which Watch System is Best for your Yacht, Crew & Voyage"** – Free Sailing Tutorials  
-  https://www.freesailingtutorials.com/articles-and-videos/which-watch-system-is-best-for-your-yacht-crew-voyage
+- [**"Which Watch System is Best for your Yacht, Crew & Voyage"**](https://www.freesailingtutorials.com/articles-and-videos/which-watch-system-is-best-for-your-yacht-crew-voyage) – Free Sailing Tutorials
 
-- **"Watch Systems & Crew Management"** – North Sails  
-  https://www.northsails.com/blogs/north-sails-blog/watch-systems-crew-management-north-sails
+- [**"Watch Systems & Crew Management"**](https://www.northsails.com/blogs/north-sails-blog/watch-systems-crew-management-north-sails) – North Sails
 
 ### Knots & Practical Skills
 
