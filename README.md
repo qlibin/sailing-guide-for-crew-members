@@ -306,10 +306,6 @@ You don't need sailing experience to be excellent crew – just the right attitu
   https://yapp.pro  
   Free beginner-friendly course with one-minute lessons and interactive learning
 
-- **ASA Free Online Sailing Content**  
-  https://americansailing.com/articles/free-online-sailing-content/  
-  Collection of free videos, articles, and learning materials
-
 ### Essential Articles & Guides
 
 **Crew Roles & Responsibilities:**
