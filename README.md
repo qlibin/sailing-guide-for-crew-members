@@ -244,39 +244,116 @@ You don't need sailing experience to be excellent crew – just the right attitu
 
 ## Further Learning: Recommended Resources
 
-### Excellent YouTube Channels for Beginners
+### Excellent YouTube Videos for Beginners
 
-**General Sailing Instruction:**
-- **Sailing La Vagabonde** – Real-world sailing experiences and practical tips
-- **Carpe Diem Sailing** – "Learn to Sail" playlist with clear, organized tutorials
-- **NauticEd Sailing School** – Professional, structured sailing education
-- **Sail Hub** – "How we Crew a sailing yacht!" video guide
-- **Sam Holmes Sailing** – "How to Sail (for beginners)" comprehensive guide
-- **Sailing Madness** – "Essential Crew Skills for Beginners"
+**Complete Beginner Guides:**
+- **"How to Sail (for beginners)"** by Sam Holmes Sailing  
+  https://www.youtube.com/watch?v=_tgzDsg9C_Q  
+  Comprehensive introduction covering all basics
 
-**Specific Skills:**
-- American Sailing Association (ASA) – Free bite-sized lessons and "Sailing Made Easy" series
-- Free Sailing Tutorials YouTube channel – Detailed how-to videos on specific topics
-- Sailing Virgins – Task-specific tutorials (tacking, gybing, etc.)
+- **"How to Sail - Beginners Course"** by Sailing Virgins  
+  https://www.youtube.com/watch?v=GjvNECA0Dqw  
+  Well-structured course for absolute beginners
+
+- **"Learn How to Sail: A Step-by-Step Guide to SAILING"**  
+  https://www.youtube.com/watch?v=WjBYRUZbU4Y  
+  Detailed step-by-step sailing fundamentals
+
+**Crew-Specific Skills:**
+- **"Essential Crew Skills for Beginners | Sailing Madness Ep45"**  
+  https://www.youtube.com/watch?v=2B-uvclgzzs  
+  Focused on what crew members need to know
+
+- **"How we Crew a sailing yacht!"** by Sail Hub  
+  https://www.youtube.com/watch?v=uYXk7ouYUcc  
+  Real-world crew duties and routines
+
+- **"Part 1 - Competent Crew Sailing Tuition"**  
+  https://www.youtube.com/watch?v=vioRcLhqn8A  
+  Professional crew training video series
+
+**Parts of the Boat & Terminology:**
+- **"Learn to Sail: Part 1: Parts of the Boat and Sailing Basics"**  
+  https://www.youtube.com/watch?v=67e5N2BsQfE  
+  Essential terminology and boat anatomy
+
+**Watch Systems:**
+- **"Which is the best Watch System for your yacht, crew & voyage"**  
+  https://www.youtube.com/watch?v=sf6J3zRJsWg  
+  Understanding crew rotation systems
+
+### Top Sailing YouTube Channels to Follow
+
+- **Sailing La Vagabonde** – Real-world cruising and family sailing experiences
+- **Free Sailing Tutorials** – Detailed how-to videos on specific sailing topics  
+  https://www.youtube.com/channel/UCMplS4YNsPkdFLkEbXzEkKA/videos
+- **Carpe Diem Sailing** – "Learn to Sail" organized tutorial playlist
+- **NauticEd Sailing School** – Professional structured sailing education
+- **Sailing Virgins** – Task-specific tutorials (tacking, gybing, docking)
+- **American Sailing Association (ASA)** – "Sailing Made Easy" bite-sized lessons
 
 ### Free Online Courses
 
-- **ASA "Your First Sail"** – 30-45 minute introductory course (americansailing.com)
-- **NauticEd** – Free sail theory and collision regulations courses (nauticed.org)
-- **Yapp Sailing Course** – Free beginner-friendly course with one-minute lessons (yapp.pro)
-- **IYT e-learning** – Free from Competent Crew through Skipper level (iytworld.com)
+- **ASA "Your First Sail"** (30-45 minutes)  
+  https://americansailing.com/free-online-sailing-course/  
+  Perfect introductory course covering sailing basics
 
-### Useful Articles & Guides
+- **NauticEd Free Courses**  
+  https://sailing-blog.nauticed.org/  
+  Free sail theory and collision regulations courses
 
-- **Kavas Sailors Guide** – Crew roles and responsibilities
-- **Sailing Europe** – Tips for sailing with kids
-- **NauticEd Blog** – How to be a good skipper or crew member
-- **American Sailing** – Tips for your first sailing charter
+- **Yapp Sailing Course**  
+  https://yapp.pro  
+  Free beginner-friendly course with one-minute lessons and interactive learning
 
-### Knots & Skills
+### Essential Articles & Guides
 
-- ASA "Knots Made Easy" – Video series on essential sailing knots
-- Search YouTube for: "sailing knots tutorial," "bowline knot," "cleat hitch"
+**Crew Roles & Responsibilities:**
+- **"Crew roles: Why Everyone on a Boat Needs a Job"** – Kavas Yachting  
+  https://www.kavas.com/sailors-guide/chapterb-before-departure/b6-crew-roles.html
+
+- **"How to be a good skipper or crew member on a sailing vacation"** – NauticEd  
+  https://sailing-blog.nauticed.org/how-to-be-a-good-skipper-or-crew-member-on-a-sailing-vacation/
+
+**Sailing with Children:**
+- **"Children on a Sailboat - Tips for Sailing With Kids"** – Sailing Europe  
+  https://www.sailingeurope.com/en/sailing-tips/sailing-faq/children-on-a-sail-boat
+
+- **"Sailing with children"** – Pitter Yachting  
+  https://www.pitter-yachting.com/en/sailing-with-kids/sailing-with-children
+
+- **"Tips for Sailing with Kids Safely"** – Rent a Yacht Australia  
+  https://www.rentayacht.com.au/sailing-with-kids-safety/
+
+**First Charter Experience:**
+- **"Tips For Your First Sailing Charter Vacation"** – American Sailing  
+  https://americansailing.com/articles/first-sailing-charter/
+
+- **"Boat Etiquette 101: How to Be a Good Crew"** – Marina Life  
+  https://www.marinalife.com/articles/boat-etiquette-101-how-to-be-a-good-crew
+
+**Croatia-Specific:**
+- **"Bareboat Sailing Guide Croatia"** – Sailing Holidays Croatia  
+  https://www.sailing-holidays-in-croatia.com/about/blog/sailing-in-croatia
+
+- **"Guide for bare boat charter in Croatia"** – Nava Boats  
+  https://navaboats.com/blog/boating-tips/guide-for-bare-boat-charter-in-croatia-3281
+
+### Watch Systems & Crew Management
+
+- **"Which Watch System is Best for your Yacht, Crew & Voyage"** – Free Sailing Tutorials  
+  https://www.freesailingtutorials.com/articles-and-videos/which-watch-system-is-best-for-your-yacht-crew-voyage
+
+- **"Watch Systems & Crew Management"** – North Sails  
+  https://www.northsails.com/blogs/north-sails-blog/watch-systems-crew-management-north-sails
+
+### Knots & Practical Skills
+
+- Search YouTube for:
+  - "ASA Knots Made Easy" – Video series on essential sailing knots
+  - "Bowline knot sailing tutorial"
+  - "Cleat hitch tutorial"
+  - "Sailing knots for beginners"
 
 ## Final Thoughts
 
@@ -290,5 +367,5 @@ I'm looking forward to sharing this adventure with you. Welcome aboard, and let'
 
 **Questions?** Don't hesitate to reach out anytime before our departure. See you on the boat!
 
-*Fair winds and following seas,*
+*Fair winds and following seas,*  
 *Your Skipper*
